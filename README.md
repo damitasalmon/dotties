@@ -1,4 +1,4 @@
-# Dotfiles 
+# Dotfiles
 
 Because I refuse to go through this again. 
 
@@ -32,5 +32,5 @@ Because I refuse to go through this again.
   - Nerd Fonts
 - Nvim 
 
-!!!note
-  Be mindful of file-paths and environment variables. 
+> [!NOTE]  
+> Be mindful of file-paths and environment variables. 
